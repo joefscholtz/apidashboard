@@ -2,3 +2,6 @@
 #data files
 *.csv
 *.parquet
+
+#poetry
+.venv
